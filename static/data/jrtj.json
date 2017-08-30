@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "message": "获取成功",
+  "data": [
+    {
+      "sid": 1,
+      "title": "一千年以后",
+      "singer": "林俊杰",
+      "picUrl": "/static/poster/music_她说.jpg"
+    },
+    {
+      "sid": 2,
+      "title": "那些你很冒险的梦",
+      "singer": "林俊杰",
+      "picUrl": "/static/poster/music_那些你很冒险的梦.jpg"
+    },
+    {
+      "sid": 3,
+      "title": "外面的世界",
+      "singer": "莫文蔚",
+      "picUrl": "/static/poster/music_外面的世界.jpg"
+    },
+    {
+      "sid": 4,
+      "title": "七里香",
+      "singer": "周杰伦",
+      "picUrl": "/static/poster/music_七里香.jpg"
+    },
+    {
+      "sid": 5,
+      "title": "清明雨上",
+      "singer": "许嵩",
+      "picUrl": "/static/poster/music_自定义.jpg"
+    },
+    {
+      "sid": 6,
+      "title": "Style",
+      "singer": "Taylor Swift",
+      "picUrl": "/static/poster/music_1989.jpg"
+    },
+    {
+      "sid": 7,
+      "title": "把命都给你了",
+      "singer": "黄海波",
+      "picUrl": "/static/poster/咱们结婚吧.jpg"
+    },
+    {
+      "sid": 8,
+      "title": "刚好遇见你",
+      "singer": "李玉刚",
+      "picUrl": "/static/poster/刚好遇见你.webp"
+    },
+    {
+      "sid": 9,
+      "title": "小酒窝",
+      "singer": "林俊杰&蔡卓妍",
+      "picUrl": "/static/poster/小酒窝.webp"
+    },
+    {
+      "sid": 10,
+      "title": "动物世界",
+      "singer": "薛之谦",
+      "picUrl": "/static/poster/动物世界.webp"
+    },
+    {
+      "sid": 11,
+      "title": "演员",
+      "singer": "薛之谦",
+      "picUrl": "/static/poster/演员.webp"
+    },
+    {
+      "sid": 12,
+      "title": "中餐厅",
+      "singer": "赵薇&黄晓明",
+      "picUrl": "/static/poster/中餐厅.webp"
+    }
+  ]
+}
